@@ -1,0 +1,14 @@
+LEVEL Study
+	
+	E0.001IPKorisnici
+
+LEVEL Programming 
+
+	Atach soft dependency 
+
+	E0.002YIKorisnici
+	E0.003YIKorisniciODS
+
+LEVEL Evident
+
+	E1.001YIKorisniciE01P002_BazaPodataka

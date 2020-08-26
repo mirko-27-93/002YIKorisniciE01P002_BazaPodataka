@@ -1,0 +1,1 @@
+DROP TRIGGER IF EXISTS yi.userinfo_AU; 

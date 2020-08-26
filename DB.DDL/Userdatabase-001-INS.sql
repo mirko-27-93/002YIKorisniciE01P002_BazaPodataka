@@ -1,0 +1,11 @@
+USE yi; 
+CREATE TABLE userdatabase(
+	id INTEGER PRIMARY KEY NOT NULL AUTO_INCREMENT, 
+    username VARCHAR(45) NOT NULL UNIQUE,
+    databaseuser BOOLEAN DEFAULT FALSE NOT NULL,
+    
+    CONSTRAINT userkey FOREIGN KEY (username)
+    REFERENCES userinfo(username)
+    ON DELETE CASCADE 
+    ON UPDATE CASCADE 
+); 

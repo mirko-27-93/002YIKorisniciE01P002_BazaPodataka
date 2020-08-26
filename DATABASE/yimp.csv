@@ -1,0 +1,5 @@
+username,firstname,secondname,emailaddress,passwordhash,country,city,telephone,short_description,profile_image_path,user_image_path,country_flag_image_path,notification_webapp_supported,notification_email_supported,user_session_control
+janko,Janko,Jankovic,janko.jankovic@gmail.com,3r67jC8q7TuE8cTx2sjLPg==$78mETg7F98z7FGtWhfrWqpk5UTC7d+aN5Bhom97lHlw=,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0,0,NULL
+marko,Marko,Markovic,marko.markovic@gmail.com,mo8Ahla6JMRHF8uxbW7QOw==$1cLtgy+ORYbySul4rzj3LwdRn9x7SsXe4f3mzzl3Y0c=,Spain,Madrid.,065/869-846,"Madrid Spain.
+",1247694515_9747142_php545bqw.jpg,6294774106_Image1562320718428.jpeg,ES.png,1,1,1
+zarko,Zarko,Zaric,zarko.zaric@gmail.com,JYnvS2cjOfCKCtFyyzfIGg==$PH2On3+82SH9Wiq+t0dA8obuZ/RURUSJg6VITmyixAc=,NULL,NULL,NULL,NULL,NULL,NULL,NULL,0,0,NULL
